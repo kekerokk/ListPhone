@@ -27,7 +27,7 @@ namespace ListPhone
             foreach (Phone a in Phones)
                 Console.WriteLine(a);
 
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
