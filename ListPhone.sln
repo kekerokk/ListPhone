@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPhone", "ListPhone\ListPhone.csproj", "{10CA3E0A-A001-488F-9613-FBA13F7615CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10CA3E0A-A001-488F-9613-FBA13F7615CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CA3E0A-A001-488F-9613-FBA13F7615CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CA3E0A-A001-488F-9613-FBA13F7615CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CA3E0A-A001-488F-9613-FBA13F7615CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF2347CE-AD72-41EB-B749-DC6A1F195DE9}
+	EndGlobalSection
+EndGlobal
